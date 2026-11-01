@@ -1,0 +1,19 @@
+# V build artifacts
+/vwhois
+cmd/whois/whois
+examples/basic
+*.exe
+*.dSYM/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local cache
+rdap-dns.json
